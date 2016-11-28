@@ -1,0 +1,138 @@
+/* 
+Please do not modify the following style rule 
+*/
+#container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box; 
+
+}
+
+/* 
+All style rules after this point can be changed as required
+*/
+
+header {
+    background-color: antiquewhite;
+    outline-style: groove;
+    
+
+
+ 
+}
+nav {
+    background-color: darkgoldenrod;
+    
+}
+
+footer {
+    background-color: cornsilk;
+      border-style: solid;
+    border: 2px solid red;
+    border-radius: 2px;
+    font-size: 12pts;
+}
+
+body {
+    background-color: azure;    
+}
+
+
+#container {
+  background-color: lightcyan;
+  min-height:200px;
+}
+
+h2{ color: blue;
+    font-size-adjust: auto;
+}
+
+
+h1 {
+    Color: Purple; 
+    font-family: sans-serif;
+    Border: Color: Red;
+    font-size-adjust: auto;
+    
+    }
+
+h2  {text-decoration: underline;
+    outline: inherit;
+    outline-color: black;
+    outline-style: inherit;
+    outline-width: medium;
+    border: 1px solid: black;
+}   
+
+
+h3 {
+    Color: lightpurple;
+    font-size-adjust: auto;
+    }
+
+h4 {
+    text-decoration: underline; 
+    color: black;
+    font-size-adjust: auto;
+}
+
+ul {
+    Color: Brown;
+    }
+
+h1 {color: purple;}
+
+p {color: black;
+    font-size: 100%;}
+
+
+ul {color: saddlebrown;}
+
+
+
+
+
+p em h1 h2 h3 h4 ul li strong {font-family: sans-serif}
+
+
+
+/* unvisited link */
+a:link {
+    color: yellow;
+}
+
+/* visited link */
+a:visited {
+    color: darkgreen;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
